@@ -1,0 +1,13 @@
+test/*
+*.bak
+*.s
+lib
+apps/openssl
+crypto/buildinf.h
+*.pc
+*.time
+Makefile
+crypto/opensslconf.h
+*.o
+*.S
+*.a
